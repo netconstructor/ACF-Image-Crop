@@ -31,3 +31,7 @@ In the edit screens when an image is selected, a crop button will appear after t
 When the post is saved, the image is cropped based on the users cropping.
 If the user doesn't crop the image, no changes will be made.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/acf-image-crop/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
